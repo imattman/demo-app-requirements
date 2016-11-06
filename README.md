@@ -1,3 +1,4 @@
-# Demo Apps Requirements
+# Demo Projects - Specifications
 
-A collection of requirements specifications for a handful of demo apps that can be useful for trying out new programming languages.
+A collection of requirements specifications of a handful of apps & exercises that can be useful for trying out programming languages and techniques.
+
